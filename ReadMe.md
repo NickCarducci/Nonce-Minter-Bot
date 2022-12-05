@@ -1,4 +1,4 @@
-Solidity open source droplet (using nodejs as security without ~~hullabaloo~~ consensus): ["easily deploy open source apps"](https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements)
+Solidity [open source droplet](https://hibit.cc)* (using nodejs as security without ~~hullabaloo~~ consensus): ["easily deploy open source apps"](https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements)
 
 Instruction ERC ~~not from express~~, but [solidity and "geth" network go-ethereum](https://github.com/ethereum/go-ethereum/blob/master/p2p/enode/localnode.go)
 

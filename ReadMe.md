@@ -22,7 +22,7 @@ I mean, [local](https://github.com/ethereum/go-ethereum/issues/21759):  [`enode.
 
 delete me so good (~~[ose](https://occupywallst.quora.com)?~~ jester.com.co)
 
-I feel like Im not being advised (thumbprint grid dns phone) a two faced trademark "double speak. $1m electiontechnology.quora.com
+I feel like Im not being advised (thumbprint grid dns phone) a two faced trademark "double speak. $1m [electiontechnology](https://tor.stackexchange.com/questions/23253/is-transmission-control-protocol-of-in-a-tamper-proof-by-tiny-explosions-dev).quora.com
 
 Monetary [velocity](https://marginalism.uk) is when work become job? unemplooyment is a trade like a job or work to use, disutility to prefer
 

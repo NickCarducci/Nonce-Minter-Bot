@@ -25,3 +25,5 @@ delete me so good (~~[ose](https://occupywallst.quora.com)?~~ jester.com.co)
 I feel like Im not being advised (thumbprint grid dns phone)
 
 Monetary velocity is when work become job? unemplooyment is a trade like a job or work to use, disutility to prefer
+
+State says export for foreign treasury debit gud

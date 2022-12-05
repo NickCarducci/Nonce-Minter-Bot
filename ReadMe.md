@@ -22,7 +22,7 @@ I mean, [local](https://github.com/ethereum/go-ethereum/issues/21759):  [`enode.
 
 delete me so good (~~[ose](https://occupywallst.quora.com)?~~ jester.com.co)
 
-I feel like Im not being advised (thumbprint grid dns phone)
+I feel like Im not being advised (thumbprint grid dns phone) a two faced trademark "double speak. $1m electiontechnology.quora.com
 
 Monetary velocity is when work become job? unemplooyment is a trade like a job or work to use, disutility to prefer
 

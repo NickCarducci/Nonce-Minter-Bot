@@ -32,4 +32,4 @@ cheap life product, general [equality](https://bureau.quora.com) == [poverty](ht
 
 Let's Clique kick [the CCP](https://actuaries.quora.com) out of the [communist](https://commie.dev/banks) party
 
-Right now the government doesn't have good characer nor responsibility.
+Right now the government doesn't have good character nor responsibility.

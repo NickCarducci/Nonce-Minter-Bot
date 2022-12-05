@@ -30,4 +30,6 @@ State says export for foreign treasury debit gud. governmet should prevent harm 
 
 cheap life product, general [equality](https://bureau.quora.com) == [poverty](https://census.quora.com)
 
-Let's Clique kick the CCP out of the [communist](https://commie.dev/banks) party
+Let's Clique kick [the CCP](https://actuaries.quora.com) out of the [communist](https://commie.dev/banks) party
+
+Right now the government doesn't have good characer nor responsibility.

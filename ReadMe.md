@@ -18,4 +18,4 @@ I mean, [local](https://github.com/ethereum/go-ethereum/issues/21759):  [`enode.
 >It now tries much harder to report a working IP address, falling back to 127.0.0.1 if no suitable address can be determined through other means. 
 >These changes were needed for tests of other packages later in the series.
 
-### [Nonce-Minter-Bot](https://ethereum-magicians.org/t/nonce-minter-bot-for-erc20mintable-open-source-wallet-supply-recovery)
+### [Nonce-Minter-Bot](https://ethereum-magicians.org/t/nonce-minter-bot-for-erc20mintable-open-source-wallet-supply-recovery): p2p [Network Addresses in Ethereum](https://dean.eigenmann.me/blog/2020/01/21/network-addresses-in-ethereum/)

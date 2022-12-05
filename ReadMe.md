@@ -19,3 +19,9 @@ I mean, [local](https://github.com/ethereum/go-ethereum/issues/21759):  [`enode.
 >These changes were needed for tests of other packages later in the series.
 
 ### [Nonce-Minter-Bot](https://ethereum-magicians.org/t/nonce-minter-bot-for-erc20mintable-open-source-wallet-supply-recovery) for *[wallet](https://vau.money) recovery improvement proposal draft* using: p2p [Network Addresses in Ethereum](https://dean.eigenmann.me/blog/2020/01/21/network-addresses-in-ethereum/), ["RLP", "ENR"]
+
+delete me so good (~~[ose](https://occupywallst.quora.com)?~~ jester.com.co)
+
+I feel like Im not being advised (thumbprint grid dns phone)
+
+Monetary velocity is when work become job? unemplooyment is a trade like a job or work to use, disutility to prefer

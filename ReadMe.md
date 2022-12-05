@@ -29,3 +29,5 @@ Monetary [velocity](https://marginalism.uk) is when work become job? unemplooyme
 State says export for foreign treasury debit gud. governmet should prevent harm not [enforce it](https://islamicbanks.quora.com)
 
 cheap life product, general [equality](https://bureau.quora.com) == [poverty](https://census.quora.com)
+
+Let's Clique kick the CCP out of the [communist](https://commie.dev/banks) party

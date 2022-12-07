@@ -33,3 +33,20 @@ cheap life product, general [equality](https://bureau.quora.com) == [poverty](ht
 Let's Clique kick [the CCP](https://actuaries.quora.com) out of the [communist](https://commie.dev/banks) party
 
 Right now the government doesn't have good character nor responsibility. Nor [uniformity](https://crowdfundingfortaxes.quora.com) (broke entrepreneur NSF) and [liberty](https://https://reddit.com/askdemocracy).
+
+> geth --identity “Vaumoney” --rpc --rpcport "8092" --datadir “src/data” --port "30330" --nodiscover --rpcapi "db,eth,net,web3" --networkid 2010 init src --nat ${hostname -I}
+
+~~The hostname instead always takes the current Ip, instead of~~ with actual enode [discover](https://github.com/ethereum/go-ethereum/tree/master/p2p) code. The mintability to account authority can be voted on  for an IP host from the droplet console...
+
+````
+spec:
+ name: nonce-minter-bot
+ services:
+ - name: web
+   domains:
+   - domain: vault-co.in
+     type: PRIMARY
+   git:
+     branch: main
+     repo_clone_url: https://github.com/nickcarducci/nonce-minter-bot.git
+````

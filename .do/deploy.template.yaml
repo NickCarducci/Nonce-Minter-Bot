@@ -1,0 +1,8 @@
+spec:
+ name: nonce-minter-bot
+ services:
+ - name: web
+   git:
+     branch: main
+     repo_clone_url: https://github.com/nickcarducci/nonce-minter-bot.git
+ # https://docs.digitalocean.com/products/app-platform/how-to/add-deploy-do-button/

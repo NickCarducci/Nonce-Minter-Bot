@@ -2,7 +2,7 @@
 
 Instructive [Solidity-go-ethereum](https://github.com/ethereum/go-ethereum/blob/master/p2p/enode/localnode.go) (a.k.a. "[geth](https://www.quora.com/Why-is-the-Go-Ethereum-network-written-in-Go-Are-there-or-will-there-be-others)" network) Request for Comment (ERC).
 
-[unless we use Geth](https://github.com/ethereum/go-ethereum/issues/21759) IP of node peers, [`req.ips; app.set('trust proxy', true)`](https://stackoverflow.com/questions/10849687/express-js-how-to-get-remote-client-address) remote referer
+~~[unless we use Geth](https://github.com/ethereum/go-ethereum/issues/21759) IP of node peers, [`req.ips; app.set('trust proxy', true)`](https://stackoverflow.com/questions/10849687/express-js-how-to-get-remote-client-address) remote referer~~
 
 I mean, [local](https://github.com/ethereum/go-ethereum/issues/21759):  [`enode.Node`](https://github.com/ethereum/go-ethereum/pull/17643) and [`admin.nodeInfo.enode.LocalNode`](https://github.com/ethereum/go-ethereum/pull/17753)
 

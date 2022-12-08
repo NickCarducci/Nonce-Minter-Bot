@@ -1,4 +1,4 @@
-# The Assertively-*[Open [source] (node.js) Droplet](https://github.com/NickCarducci/mastercard-backbank-digital-ocean-app)* (using nodejs as security without ~~hullabaloo~~ consensus): ["easily deploy open source apps"](https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements)
+# The Assertively-*[Open [source] (node.js) Droplet](https://github.com/NickCarducci/mastercard-backbank-digital-ocean-app)* (security protocol using Digital Ocean Authority without ~~hullabaloo~~ consensus): ["easily deploy open source apps"](https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements)
 
 Instructive [Solidity-go-ethereum](https://github.com/ethereum/go-ethereum/blob/master/p2p/enode/localnode.go) (a.k.a. "[geth](https://www.quora.com/Why-is-the-Go-Ethereum-network-written-in-Go-Are-there-or-will-there-be-others)" network) Request for Comment (ERC).
 

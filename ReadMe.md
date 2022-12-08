@@ -1,6 +1,6 @@
-Solidity *[open source droplet](https://hibit.cc)* (using nodejs as security without ~~hullabaloo~~ consensus): ["easily deploy open source apps"](https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements)
+Node.js assertive-*[Open source droplet](https://github.com/NickCarducci/mastercard-backbank-digital-ocean-app)* (using nodejs as security without ~~hullabaloo~~ consensus): ["easily deploy open source apps"](https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements)
 
-Instruction ERC ~~not from express~~, but [solidity and "geth" network go-ethereum](https://github.com/ethereum/go-ethereum/blob/master/p2p/enode/localnode.go)
+Instructive [Solidity-go-ethereum](https://github.com/ethereum/go-ethereum/blob/master/p2p/enode/localnode.go) (a.k.a. "[geth](https://www.quora.com/Why-is-the-Go-Ethereum-network-written-in-Go-Are-there-or-will-there-be-others)" network) Request for Comment (ERC).
 
 [unless we use Geth](https://github.com/ethereum/go-ethereum/issues/21759) IP of node peers, [`req.ips; app.set('trust proxy', true)`](https://stackoverflow.com/questions/10849687/express-js-how-to-get-remote-client-address) remote referer
 
